@@ -1,1 +1,11 @@
-# hoc-tin-cung-rin
+# Học tin cùng rin 
+## Để làm quen với tin học, trước ta cần biết những điều cơ bản sau:
+- Vòng lặp for,while
+- Câu lệnh if then
+- Các phép so sánh
+## Tiếp theo ta làm quen với các bài toán tìm ước:
+- Tìm ước bằng cách sàn đến căn của 1 số n
+## Làm quen với thuật toán chứng minh nguyên tố:
+- Sàng từ 1 tới n, nếu có nhiều hơn 2 ước thì n không phải nguyên tố (thuật toán ngây thơ)
+- Sàng từ 1 đến căn của n, nếu n là số chính phương ta trừ đi 1 trường hợp ước (dùng cho các bài toán xác định tính nguyên tố của ít số)
+- Sàng eratosthenes ( áp dụng bài toán xac định tính nguyên tố của nhiều số) 
