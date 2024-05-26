@@ -12,9 +12,5 @@
   - Link tài liệu : https://youtu.be/TTV8r1NCzo0?si=rkqsYSPHQ0vORwk6
 # Giáo án 1: Đếm số lần xuất hiện, số lượng số khác nhau xuất hiện.
 ## Link bài tập và code tham khảo
-| Đề | Code |
-  | :-- | :-- |https://cdn.fbsbx.com/v/t59.2708-21/435942441_258136847387900_6171410530220813297_n.docx/Xuathien.docx?_nc_cat=103&ccb=1-7&_nc_sid=2b0e22&_nc_ohc=oift5OQkzZ8Ab6KRyyQ&_nc_ht=cdn.fbsbx.com&oh=03_AdUQxf12Nc9FAI5OB1RoKRIjJCulvEdGFtuPq23exKUu5Q&oe=6612D2BF&dl=1
-  | Cột 1 | Cột 2 |
-Bạn đã gửihttps://cdn.fbsbx.com/v/t59.2708-21/435269777_1566096804248450_6081904457867307588_n.cpp/caitui2.cpp?_nc_cat=100&ccb=1-7&_nc_sid=2b0e22&_nc_ohc=Sjb2Ss1yhD4Ab6a_wy2&_nc_ht=cdn.fbsbx.com&oh=03_AdU_iSUlAlHKf-66uSQg4GBkLySDEW3jqGYQFQmPaMnY1Q&oe=6612E4AA&dl=1
 
 
