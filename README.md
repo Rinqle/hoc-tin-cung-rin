@@ -1,5 +1,7 @@
 # Học tin cùng rin 
 ## Để làm quen với tin học, trước ta cần biết những điều cơ bản sau:
+- Cấu trúc chương trình
+- Các phép toán cơ bản
 - Vòng lặp for,while
 - Câu lệnh if then
 - Các phép so sánh
